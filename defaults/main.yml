@@ -1,0 +1,3 @@
+---
+# defaults file for installation
+cifs_utils_package: cifs-utils
